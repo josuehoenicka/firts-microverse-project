@@ -4,7 +4,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Josue Hoenicka's Project at Microverse</b></h3>
 
 </div>
 
@@ -21,7 +21,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -31,8 +31,6 @@
 - [📝 License](#license)
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** is my simple first project at Microverse!
 
@@ -79,6 +77,14 @@ If you have Windows and want to use linters use: (OPTIONAL)
 - Live Server (If you use VSC as IDE. You should install the Live Server plugin from VSC to run easily your HTML files on your browser)
 
 
+### Run tests
+
+-
+
+### Deployment
+
+-
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
@@ -112,7 +118,6 @@ Feel free to check the [issues page](../../issues/).
 If you like this project you can give me a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
