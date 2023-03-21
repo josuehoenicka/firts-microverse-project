@@ -34,44 +34,44 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello Microverse]** is my beautiful h1
+**[Hello Microverse]** is my simple first project at Microverse!
 
-## 🛠 Built With <a name="built-with">HTML5 & CSS3</a>
+## 🛠 Built With 
+<a name="built-with">HTML5</a>
+<a name="built-with">CSS3</a>
 
-### Tech Stack <a name="tech-stack">-</a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-  </ul>
-</details>
+### Tech Stack 
+<a name="tech-stack">Just HTML5 and CSS3</a>
 
 ### Key Features <a name="key-features"></a>
 
 ## 🚀 Live Demo <a name="live-demo">None</a>
 
+[Live Demo Link](https://github.com/josuehoenicka/firts-microverse-project#setup)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps
 
 ### Prerequisites
 
-In order to run this project you need:
+IDE (e.g VSC, Atom, etc)
 
-- IDE (e.g VSC, Atom, etc)
+### Setup
+
+-
+
+### Usage
+
+-
 
 ### Install
 
-Install this project with (Optional, ignore this part if you just want to see my website on your browser)
+<code>git clone https://github.com/josuehoenicka/firts-microverse-project.git</code>
 
+If you have Windows and want to use linters use: (OPTIONAL)
 <code>npm install</code>
 
 ### Usage
@@ -123,7 +123,5 @@ I would like to thank Microverse's comunnity and my coding partners
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
