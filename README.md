@@ -1,30 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
@@ -79,13 +54,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo">None</a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -97,81 +66,32 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+- IDE (e.g VSC, Atom, etc)
 
 ### Install
 
-Install this project with:
+Install this project with (Optional, ignore this part if you just want to see my website on your browser)
 
 <code>npm install</code>
 
 ### Usage
 
-To run the project, you should use Live Server from VSC
+- Live Server (If you use VSC as IDE. You should install the Live Server plugin from VSC to run easily your HTML files on your browser)
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+## 👥 Author <a name="authors"></a>
 
-## 👥 Authors <a name="authors"></a>
+👤 **Developer**
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/josuehoenicka)
+- GitHub: [@josuehoenicka](https://github.com/josuehoenicka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/josuehoenicka/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Styles effects]**
 - [ ] **[Microverse Icon]**
@@ -192,27 +112,13 @@ Feel free to check the [issues page](../../issues/).
 If you like this project you can give me a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
+->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse's comunnity and my coding partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[¿How I can see your project on my VSC?]**
-
-  - You should have a Live Server Plugin from VSC and run to open a tab on your browser
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
