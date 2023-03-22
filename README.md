@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Josue Hoenicka's Project at Microverse</b></h3>
+  <h3 align="center"><b>Josue Hoenicka's Project at Microverse</b></h3>
 
 </div>
 
