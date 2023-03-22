@@ -55,35 +55,28 @@ To get a local copy up and running, follow these steps
 
 ### Prerequisites
 
-IDE (e.g VSC, Atom, etc)
+N/A
 
 ### Setup
 
--
-
-### Usage
-
--
+N/A
 
 ### Install
 
-<code>git clone https://github.com/josuehoenicka/firts-microverse-project.git</code>
-
-If you have Windows and want to use linters use: (OPTIONAL)
-<code>npm install</code>
+<code>git clone https://github.com/josuehoenicka/hello-microverse.git</code>
 
 ### Usage
 
-- Live Server (If you use VSC as IDE. You should install the Live Server plugin from VSC to run easily your HTML files on your browser)
+N/A
 
 
 ### Run tests
 
--
+N/A
 
 ### Deployment
 
--
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
