@@ -1,0 +1,3 @@
+# Tasks: Add node_modules && test.md to gitignore file.
+node_modules
+test.md
